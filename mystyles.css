@@ -1,0 +1,9 @@
+p {color: #FFDFFF;}
+h4 {color: #FFFFFF;}
+h3 {color:#0390FC;}
+li::marker {color: #FFDFFF;}
+body {background-color: #2F0560;}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
